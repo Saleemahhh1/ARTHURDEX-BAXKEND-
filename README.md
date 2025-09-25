@@ -1,9 +1,3 @@
-👌 Na shirya maka cikakken README.md wanda zaka saka a backend repository na ArthurDex.
-Na rubuta shi domin ya zama bayyananne ga duk mai duba repo ɗinka (musamman su Netlify/Render judges idan hackathon project ne).
-
-
----
-
 📘 ArthurDex Backend
 
 ArthurDex backend is a next-generation DeFi service powered by Hedera Hashgraph (HTS), MongoDB, and CoinGecko integration.
