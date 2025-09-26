@@ -7,7 +7,6 @@ import morgan from "morgan";
 import rateLimit from "express-rate-limit";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
-import fetch from "node-fetch";
 import mongoose from "mongoose";
 import {
   Client,
