@@ -164,12 +164,4 @@ CORS open for frontend
 
 📜 License
 
-This project is licensed under the MIT License.
-
-
----
-
-👉 Wannan README.md zaka iya saka shi a backend repo ɗinka.
-
-Kana so in shirya maka README.md na frontend ma domin ya dace da wannan tsarin?
-
+This project is licensed under the MIT License
